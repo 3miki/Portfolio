@@ -1,20 +1,25 @@
 # Miki Station
+Welcome to my portfolio! 🌟
 
-This is Miki Suzuki’s portfolio, showcasing a collection of projects and skills. Discover my technical expertise and diverse professional experiences. Explore my projects, learn about my background, and connect with me to discuss potential collaborations or opportunities.
+Here, you’ll find a collection of my projects, skills, and professional experiences. Dive into my technical expertise, explore my accomplishments, and learn more about my journey. 
 
+I’m excited to connect, collaborate, and discuss new opportunities—feel free to reach out!
+
+![image](images/profile.png)
 
 ## Credits:
 
 - Template:
-	- Stellar by HTML5 UP (html5up.net | @ajlkn)
+	- Stellar by [HTML5 UP](html5up.net)(@ajlkn)
 
 - Images:
-	- Unsplash (unsplash.com)
+	- [Unsplash](unsplash.com)
 
 - Icons:
-	- Font Awesome (fontawesome.io)
+	- [Font Awesome](fontawesome.io)
+	- [Favicon](https://favicon.io/)
 
 - Other:
-	- jQuery (jquery.com)
-	- Scrollex (github.com/ajlkn/jquery.scrollex)
-	- Responsive Tools (github.com/ajlkn/responsive-tools)
+	- [jQuery](jquery.com)
+	- [Scrollex](github.com/ajlkn/jquery.scrollex)
+	- [Responsive Tools](github.com/ajlkn/responsive-tools)
